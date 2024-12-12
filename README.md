@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning cryptograpghy
 - 💞️ I’m looking to collaborate on DEFI and Blockchain 
 - 📫 How to reach me abdullahiidris0272@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: Wildlife Photographer 
 
 <!---
 VetAbdul/VetAbdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
